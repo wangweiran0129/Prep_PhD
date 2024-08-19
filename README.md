@@ -7,7 +7,7 @@ This repo is created for the preparation of my PhD at ETH Zurich.
 3. [PowerDB API](https://networkpowerzoo.ethz.ch/swagger/)
 
 ## Books
-1. [Mastering Reinforcement Learning with Python](https://learning.oreilly.com/library/view/mastering-reinforcement-learning/9781838644147/)([https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python](Code))
+1. [Mastering Reinforcement Learning with Python](https://learning.oreilly.com/library/view/mastering-reinforcement-learning/9781838644147/) ([Code](https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python))
 
 ## Papers
 1. Network energy use not directly proportional to data volume - The power model approach for more reliable network energe consumption calculations
