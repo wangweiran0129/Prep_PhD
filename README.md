@@ -5,6 +5,7 @@ This repo is created for the preparation of my PhD at ETH Zurich.
 1. [A Greener Internet that Sleeps More](https://podcast.greensoftware.foundation/e/08j02v38-a-greener-internet-that-sleeps-more)
 2. [HotCarbon](https://hotcarbon.org/program)
 3. [PowerDB API](https://networkpowerzoo.ethz.ch/swagger/)
+4. [Mini Internet](https://github.com/nsg-ethz/mini_internet_project)
 
 ## Books
 1. [Mastering Reinforcement Learning with Python](https://learning.oreilly.com/library/view/mastering-reinforcement-learning/9781838644147/) ([Code](https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python))
